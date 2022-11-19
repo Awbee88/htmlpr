@@ -1,0 +1,54 @@
+h1 {
+    font-size: 32px;
+}
+
+body {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+    background-color: rgba(198, 236, 217, 0.28);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+figure {
+    float: right;
+    clear: right;
+    width: 320px;
+    margin-left: 100px;
+    /*margin-right: 40px;*/
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+
+figcaption {
+    font-style: italic;
+}
+
+table {
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    border-spacing: 5px;
+    border-collapse: collapse;
+    width: 1000px;
+}
+
+.t3 {
+    width: 400px;
+}
+
+caption {
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    margin-bottom: 1px;
+
+}
+
+td, th, tr {
+    border: 2px solid rgba(0, 0, 0, 0.5);
+}
